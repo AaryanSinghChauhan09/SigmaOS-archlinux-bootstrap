@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-bootstrap component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-bootstrap"
+name = "sigmaos_archlinux_bootstrap"
 path = "src/lib.rs"
